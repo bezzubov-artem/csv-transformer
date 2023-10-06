@@ -1,2 +1,2 @@
 # csv-transformer
-App for transforming CSV
+App for comparing CSV with PRN
